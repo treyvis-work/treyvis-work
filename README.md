@@ -11,6 +11,7 @@
 
 <h2> ⌨️ HTB Walkthroughs </h2>  
 
+<h2> 🖥️ Coding Projects </h2>
 
 <h2> 🤳 Connect with me:</h2>
 
